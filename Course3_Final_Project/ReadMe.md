@@ -9,4 +9,4 @@ This final assignment for Course 3 covers following topics
  4. Use the filtered 2D object detection results to determine how far
     obstacles are from the self-driving car.
     
- View 'Environment Perception For Self-Driving Cars - Learner - v1.ipynb' for more details
+ View [Environment Perception For Self-Driving Cars-Learner-v1.ipynb](https://github.com/shubhamPgithub/Self-Driving-Car-Projects/blob/master/Course3_Final_Project/Environment%20Perception%20For%20Self-Driving%20Cars%20-%20Learner%20-%20v1.ipynb) for more details
